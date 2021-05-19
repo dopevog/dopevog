@@ -68,6 +68,7 @@ Also, check my pinned repos for projects which I enjoy showing off! 😎
   <summary>⚡ Top Projects</summary>
 
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dopevog&repo=stockmarket-ai&theme=vision-friendly-dark&icon_color=ffd95b)](https://github.com/dopevog/stockmarket-ai)
+  
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dopevog&repo=vython&theme=vision-friendly-dark&icon_color=ffd95b)](https://github.com/dopevog/vython)
   
 </details>
