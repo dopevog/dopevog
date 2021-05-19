@@ -57,7 +57,7 @@ Also, here is a [small portfolio of my favourite projects](https://nitratine.net
 - [Nothing Yet]()
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://nitratine.net/blog/)
+➡️ [more blog posts...]()
 
 </details>
 
