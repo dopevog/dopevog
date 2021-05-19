@@ -80,6 +80,8 @@ You can also find me at ...
   
 </details>
 
+---
+
 <details>
   <summary>🐍 Python Projects</summary>
   
