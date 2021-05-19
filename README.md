@@ -91,7 +91,6 @@ Check out.....
   
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dopevog&repo=cv-sudoku-solver&theme=vision-friendly-dark&icon_color=ffd95b)](https://github.com/dopevog/cv-sudoku-solver)
   
-  
 </details>
 
 <details>
@@ -103,13 +102,11 @@ Check out.....
   
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dopevog&repo=tasks&theme=vision-friendly-dark&icon_color=ffd95b)](https://github.com/dopevog/tasks)
   
-  
 </details>
 
 <details>
   <summary>👨‍💻 CSS Projects</summary>
   
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dopevog&repo=aesthetic&theme=vision-friendly-dark&icon_color=ffd95b)](https://github.com/dopevog/aesthetic)
-  
   
 </details>
