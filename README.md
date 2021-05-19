@@ -105,7 +105,7 @@ You can also find me at ...
 </details>
 
 <details>
-  <summary>👨‍💻 Projects</summary>
+  <summary>👨‍💻 CSS Projects</summary>
   
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dopevog&repo=aesthetic&theme=vision-friendly-dark&icon_color=ffd95b)](https://github.com/dopevog/aesthetic)
   
