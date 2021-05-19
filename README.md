@@ -11,7 +11,6 @@ You can also find me at ...
 
 - 🌐 [My Personal Website](https://dopevog.github.io/me/): where I display my projects and share more about me!
 
-Also, check the 'Top 4 Project' section below for projects which I enjoy showing off! 😎 
 ---
 
 <p align="center">
@@ -67,7 +66,7 @@ Also, check the 'Top 4 Project' section below for projects which I enjoy showing
 </details>
 
 <details>
-  <summary>⚡ Top Projects</summary>
+  <summary>:v: Top Projects</summary>
   
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dopevog&repo=stockmarket-ai&theme=vision-friendly-dark&icon_color=ffd95b)](https://github.com/dopevog/stockmarket-ai)
   
