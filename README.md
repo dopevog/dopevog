@@ -63,3 +63,10 @@ Also, check my pinned repos for projects which I enjoy showing off! 😎
   <img align="center" alt="dopevog's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=dopevog&show_icons=true&hide_border=true" />
   
 </details>
+
+<details>
+  <summary>⚡ Top Projects</summary>
+
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=twopirllc&repo=pandas-ta&theme=vision-friendly-dark&icon_color=ffd95b)](https://github.com/twopirllc/pandas-ta)
+  
+</details>
