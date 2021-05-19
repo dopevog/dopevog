@@ -3,14 +3,13 @@
 Here are some quick things about me:
 
 - 🔭 I'm a software developer from Earth.
-- ⚗️ A lover of science, heavy machinery, and the advantage of software.
+- ⚗️ A lover of finance, current topics, space and real life project implementation.
 - 📫 Contact me via email [here](mailto:vedant.vnk@gmail.com)
-- ⚡ I love Python, .NET, TypeScript and React and typically do full-stack development.
+- ⚡ I love Python, JavaScript & Algorithmic Trading.
 
 You can also find me at ...
 
-- 🌐 [nitratine.net](https://nitratine.net/): where I write small posts on how to do stuff I'll probably forget later or just want to show off.
-- 🎥 [YouTube/PyTutorials](https://www.youtube.com/PyTutorials): where I make medium-level Python tutorials on focused topics.
+- 🌐 [My Personal Website](https://dopevog.github.io/me/): where I display my projects and share more about me!
 
 Also, here is a [small portfolio of my favourite projects](https://nitratine.net/portfolio/) 😎
 
