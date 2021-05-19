@@ -64,7 +64,7 @@ Check out.....
  
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dopevog&hide=html&theme=vision-friendly-dark&icon_color=ffd95b)](https://github.com/twopirllc/github-readme-stats)
   
-  ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=dopevog&theme=dark)
+  ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=dopevog&theme=vision-friendly-dark&icon_color=ffd95b)
   
   
 </details>
