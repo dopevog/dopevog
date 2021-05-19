@@ -4,8 +4,9 @@ Here are some quick things about me:
 
 - 🔭 I'm a software developer from Earth.
 - ⚗️ A lover of finance, current topics, space and real life project implementation.
-- 📫 Contact me via email [here](mailto:vedant.vnk@gmail.com)
+- 📫 Contact me via email [here](mailto:vedant.vnk@gmail.com).
 - ⚡ I love Python, JavaScript & Algorithmic Trading.
+- 📈 I have developed and use [this](https://docs.google.com/document/d/1ks_oHgM1R7aNmpa2Cq8Y12pmkiN3P1iAdAr1PqiUhZg/edit) algorithm to value stocks!
 
 You can also find me at ...
 
