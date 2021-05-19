@@ -10,7 +10,7 @@ Here are some quick things about me:
 
 Check out..... 
 
-- 🌐 [My Personal Website](https://dopevog.github.io/me/): where I display my projects and share more about me!
+- 🌐 [My Personal Website](https://dopevog.github.io/me/): where I display my projects and share about myself!
 
 ---
 
