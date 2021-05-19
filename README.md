@@ -1,4 +1,4 @@
-**Hi there 👋, it's great to see you!** 😀
+**Sup 👋, it's great to see you!** 😀
 
 Here are some quick things about me:
 
