@@ -93,7 +93,7 @@ You can also find me at ...
 </details>
 
 <details>
-  <summary>JavaScript Projects</summary>
+  <summary>📜 JavaScript Projects</summary>
   
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dopevog&repo=me&theme=vision-friendly-dark&icon_color=ffd95b)](https://github.com/dopevog/me)
   
@@ -105,7 +105,7 @@ You can also find me at ...
 </details>
 
 <details>
-  <summary>CSS Projects</summary>
+  <summary>👨‍💻 Projects</summary>
   
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dopevog&repo=aesthetic&theme=vision-friendly-dark&icon_color=ffd95b)](https://github.com/dopevog/aesthetic)
   
