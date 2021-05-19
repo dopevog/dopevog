@@ -11,8 +11,7 @@ You can also find me at ...
 
 - 🌐 [My Personal Website](https://dopevog.github.io/me/): where I display my projects and share more about me!
 
-Also, here is a [small portfolio of my favourite projects](https://nitratine.net/portfolio/) 😎
-
+Also, check my pinned repos for projects which I enjoy showing off! 😎 
 ---
 
 <p align="center">
