@@ -79,3 +79,15 @@ You can also find me at ...
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dopevog&repo=fakegooogle&theme=vision-friendly-dark&icon_color=ffd95b)](https://github.com/dopevog/fakegooogle)
   
 </details>
+
+<details>
+  <summary>🐍 Python Projects</summary>
+  
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dopevog&repo=stockmarket-ai&theme=vision-friendly-dark&icon_color=ffd95b)](https://github.com/dopevog/stockmarket-ai)
+  
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dopevog&repo=vython&theme=vision-friendly-dark&icon_color=ffd95b)](https://github.com/dopevog/vython)
+  
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dopevog&repo=cv-sudoku-solver&theme=vision-friendly-dark&icon_color=ffd95b)](https://github.com/dopevog/cv-sudoku-solver)
+  
+  
+</details>
