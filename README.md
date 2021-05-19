@@ -64,7 +64,7 @@ Also, check my pinned repos for projects which I enjoy showing off! 😎
 
   
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=twopirllc&hide=html&theme=vision-friendly-dark&icon_color=ffd95b)](https://github.com/twopirllc/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dopevog&hide=html&theme=vision-friendly-dark&icon_color=ffd95b)](https://github.com/twopirllc/github-readme-stats)
   
 </details>
 
