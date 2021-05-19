@@ -91,3 +91,23 @@ You can also find me at ...
   
   
 </details>
+
+<details>
+  <summary>JavaScript Projects</summary>
+  
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dopevog&repo=me&theme=vision-friendly-dark&icon_color=ffd95b)](https://github.com/dopevog/me)
+  
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dopevog&repo=fakegooogle&theme=vision-friendly-dark&icon_color=ffd95b)](https://github.com/dopevog/fakegooogle)
+  
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dopevog&repo=tasks&theme=vision-friendly-dark&icon_color=ffd95b)](https://github.com/dopevog/tasks)
+  
+  
+</details>
+
+<details>
+  <summary>CSS Projects</summary>
+  
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dopevog&repo=aesthetic&theme=vision-friendly-dark&icon_color=ffd95b)](https://github.com/dopevog/aesthetic)
+  
+  
+</details>
