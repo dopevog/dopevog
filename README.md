@@ -1,5 +1,4 @@
 **Sup 👋, it's great to see you!** 😀
-![](https://hit.yhype.me/github/profile?user_id=82938580)
 
 Here are some quick things about me:
 
