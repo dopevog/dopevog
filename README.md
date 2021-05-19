@@ -11,7 +11,7 @@ You can also find me at ...
 
 - 🌐 [My Personal Website](https://dopevog.github.io/me/): where I display my projects and share more about me!
 
-Also, check my pinned repos for projects which I enjoy showing off! 😎 
+Also, check the 'Top 4 Project' section below for projects which I enjoy showing off! 😎 
 ---
 
 <p align="center">
@@ -61,20 +61,20 @@ Also, check my pinned repos for projects which I enjoy showing off! 😎
   <summary>⚡ GitHub Stats</summary>
 
   ![Github stats](https://github-readme-stats.vercel.app/api?username=dopevog&show_icons=true&count_private=true&theme=vision-friendly-dark&icon_color=ffd95b)
-
-  
-  
+ 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dopevog&hide=html&theme=vision-friendly-dark&icon_color=ffd95b)](https://github.com/twopirllc/github-readme-stats)
   
 </details>
 
 <details>
   <summary>⚡ Top Projects</summary>
-
-
+  
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dopevog&repo=stockmarket-ai&theme=vision-friendly-dark&icon_color=ffd95b)](https://github.com/dopevog/stockmarket-ai)
   
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dopevog&repo=vython&theme=vision-friendly-dark&icon_color=ffd95b)](https://github.com/dopevog/vython)
   
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dopevog&repo=aesthetic&theme=vision-friendly-dark&icon_color=ffd95b)](https://github.com/dopevog/aesthetic)
+  
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dopevog&repo=fakegooogle&theme=vision-friendly-dark&icon_color=ffd95b)](https://github.com/dopevog/fakegooogle)
   
 </details>
