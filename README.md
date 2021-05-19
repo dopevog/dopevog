@@ -51,32 +51,10 @@ Also, here is a [small portfolio of my favourite projects](https://nitratine.net
 ---
 
 <details>
-  <summary>📺 Latest YouTube Videos</summary>
-  
-<!-- YOUTUBE:START -->
-- [How to Encrypt Strings and Files in Python](https://www.youtube.com/watch?v=H8t4DJ3Tdrg)
-- [Python GUI's with PyQt5](https://www.youtube.com/watch?v=ksW59gYEl6Q)
-- [How to Send Emails in Python](https://www.youtube.com/watch?v=YPiHBtddefI)
-- [Python SQLite Basics](https://www.youtube.com/watch?v=SQj17D1Q_6s)
-- [Python GUI Using Chrome](https://www.youtube.com/watch?v=2kbeBzEQfXE)
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://youtube.com/PyTutorials)
-
-</details>
-
-<details>
   <summary>📕 Latest Blog Posts</summary>
   
 <!-- BLOG-POST-LIST:START -->
-- [A Warning For EF Core's DateTimeOffsetToBinaryConverter](https://nitratine.net/blog/post/a-warning-for-ef-cores-datetimeoffsettobinaryconverter/)
-- [How To Set Up Open Drone Map On Windows](https://nitratine.net/blog/post/how-to-set-up-open-drone-map-on-windows/)
-- [Python Face Recognition Tutorial](https://nitratine.net/blog/post/python-face-recognition-tutorial/)
-- [How To Serve A React App From A Python Server](https://nitratine.net/blog/post/how-to-serve-a-react-app-from-a-python-server/)
-- [How To Take A Screenshot In Python Using MSS](https://nitratine.net/blog/post/how-to-take-a-screenshot-in-python-using-mss/)
-- [How To Take A Screenshot In Python Using PIL](https://nitratine.net/blog/post/how-to-take-a-screenshot-in-python-using-pil/)
-- [Python Beautiful Soup Basics Tutorial](https://nitratine.net/blog/post/python-beautiful-soup-basics-tutorial/)
-- [Python File Backup Script](https://nitratine.net/blog/post/python-file-backup-script/)
+- [Nothing Yet]()
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://nitratine.net/blog/)
