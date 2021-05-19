@@ -1,4 +1,5 @@
 **Sup 👋, it's great to see you!** 😀
+![](https://komarev.com/ghpvc/?dopevog&color=green)
 
 Here are some quick things about me:
 
