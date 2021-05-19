@@ -67,7 +67,7 @@ You can also find me at ...
 </details>
 
 <details>
-  <summary>:v: Top Projects</summary>
+  <summary>🥇 Top Projects</summary>
   
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dopevog&repo=stockmarket-ai&theme=vision-friendly-dark&icon_color=ffd95b)](https://github.com/dopevog/stockmarket-ai)
   
