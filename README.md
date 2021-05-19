@@ -65,6 +65,8 @@ You can also find me at ...
  
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dopevog&hide=html&theme=vision-friendly-dark&icon_color=ffd95b)](https://github.com/twopirllc/github-readme-stats)
   
+  [![vedant's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dopevog)](https://github.com/dopevog)
+  
 </details>
 
 <details>
