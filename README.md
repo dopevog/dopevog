@@ -59,6 +59,15 @@ Check out.....
 </details>
 
 <details>
+  <summary>🏆 Codejams I Have Participated In</summary>
+  
+<!-- CODEJAM-LIST:START -->
+- [Nothing Yet]()
+<!-- CODEJAM-LIST:END -->
+
+</details>
+
+<details>
   <summary>⚡ GitHub Stats</summary>
 
   ![Github stats](https://github-readme-stats.vercel.app/api?username=dopevog&show_icons=true&count_private=true&theme=vision-friendly-dark&icon_color=ffd95b)
