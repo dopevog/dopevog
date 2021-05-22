@@ -89,7 +89,7 @@ Check out.....
   
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cvython&repo=vython&theme=vision-friendly-dark&icon_color=ffd95b)](https://github.com/cvython/vython)
   
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=code-pix&repo=codepix&theme=vision-friendly-dark&icon_color=ffd95b)](https://github.com/code-pix/codepix)
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yokiorg&repo=codepix&theme=vision-friendly-dark&icon_color=ffd95b)](https://github.com/code-pix/codepix)
   
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dopevog&repo=aesthetic&theme=vision-friendly-dark&icon_color=ffd95b)](https://github.com/dopevog/aesthetic)
   
@@ -117,7 +117,7 @@ Check out.....
   
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dopevog&repo=me&theme=vision-friendly-dark&icon_color=ffd95b)](https://github.com/dopevog/me)
  
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=code-pix&repo=codepix&theme=vision-friendly-dark&icon_color=ffd95b)](https://github.com/code-pix/codepix)
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yokiorg&repo=codepix&theme=vision-friendly-dark&icon_color=ffd95b)](https://github.com/yokiorg/codepix)
   
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dopevog&repo=fakegooogle&theme=vision-friendly-dark&icon_color=ffd95b)](https://github.com/dopevog/fakegooogle)
   
