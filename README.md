@@ -8,6 +8,7 @@ Here are some quick things about me:
 - ⚡ I love Python, JavaScript & Algorithmic Trading.
 - 📈 I have developed and use [this](https://docs.google.com/document/d/1ks_oHgM1R7aNmpa2Cq8Y12pmkiN3P1iAdAr1PqiUhZg/edit) algorithm to accurately value stocks!
 - 👨‍💻 I developed the Vython [programming language](https://github.com/cvython/Vython)!
+- 🤖 I developed the [Stox](https://github.com/cstox/stox) module for the python programming language!
 
 Check out..... 
 
@@ -82,6 +83,8 @@ Check out.....
 <details>
   <summary>🥇 Top Projects</summary>
   
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cstox&repo=stox&theme=vision-friendly-dark&icon_color=ffd95b)](https://github.com/cstox/stox)
+  
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dopevog&repo=stockmarket-ai&theme=vision-friendly-dark&icon_color=ffd95b)](https://github.com/dopevog/stockmarket-ai)
   
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cvython&repo=vython&theme=vision-friendly-dark&icon_color=ffd95b)](https://github.com/cvython/vython)
@@ -98,6 +101,8 @@ Check out.....
 
 <details>
   <summary>🐍 Python Projects</summary>
+  
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cstox&repo=stox&theme=vision-friendly-dark&icon_color=ffd95b)](https://github.com/cstox/stox)
   
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dopevog&repo=stockmarket-ai&theme=vision-friendly-dark&icon_color=ffd95b)](https://github.com/dopevog/stockmarket-ai)
   
