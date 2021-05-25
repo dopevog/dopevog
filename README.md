@@ -1,7 +1,5 @@
 **Sup 👋, it's great to see you!** 😀
 
-<img src="https://komarev.com/ghpvc/?username=dopevog&color=grey"/>
-
 Here are some quick things about me:
 
 - 🔭 I'm a software developer from Earth.
