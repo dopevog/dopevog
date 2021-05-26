@@ -106,9 +106,9 @@ Check out.....
   
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cstox&repo=stox&theme=vision-friendly-dark&icon_color=ffd95b)](https://github.com/cstox/stox)
   
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dopevog&repo=stockmarket-ai&theme=vision-friendly-dark&icon_color=ffd95b)](https://github.com/dopevog/stockmarket-ai)
-  
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cvython&repo=vython&theme=vision-friendly-dark&icon_color=ffd95b)](https://github.com/cvython/vython)
+  
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dopevog&repo=stockmarket-ai&theme=vision-friendly-dark&icon_color=ffd95b)](https://github.com/dopevog/stockmarket-ai)
   
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dopevog&repo=cv-sudoku-solver&theme=vision-friendly-dark&icon_color=ffd95b)](https://github.com/dopevog/cv-sudoku-solver)
   
