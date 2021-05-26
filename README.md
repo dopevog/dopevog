@@ -122,9 +122,7 @@ Check out.....
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yokiorg&repo=codepix&theme=vision-friendly-dark&icon_color=ffd95b)](https://github.com/yokiorg/codepix)
   
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dopevog&repo=fakegooogle&theme=vision-friendly-dark&icon_color=ffd95b)](https://github.com/dopevog/fakegooogle)
-  
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dopevog&repo=tasks&theme=vision-friendly-dark&icon_color=ffd95b)](https://github.com/dopevog/tasks)
-  
+    
 </details>
 
 <details>
