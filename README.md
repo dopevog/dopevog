@@ -135,6 +135,13 @@ Check out.....
 </details>
 
 <details>
+  <summary>🦾 SCSS Projects</summary>
+  
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dopevog&repo=repolist&theme=vision-friendly-dark&icon_color=ffd95b)](https://github.com/dopevog/aesthetic)
+  
+</details>
+
+<details>
   <summary>✏️ Markdown Projects</summary>
   
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dopevog&repo=dopevog&theme=vision-friendly-dark&icon_color=ffd95b)](https://github.com/dopevog/dopevog)
