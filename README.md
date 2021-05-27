@@ -91,9 +91,9 @@ Check out.....
   
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yokiorg&repo=codepix&theme=vision-friendly-dark&icon_color=ffd95b)](https://github.com/code-pix/codepix)
   
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dopevog&repo=stockmarket-ai&theme=vision-friendly-dark&icon_color=ffd95b)](https://github.com/dopevog/stockmarket-ai)
-  
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dopevog&repo=repolist&theme=vision-friendly-dark&icon_color=ffd95b)](https://github.com/dopevog/repolist)
+  
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dopevog&repo=stockmarket-ai&theme=vision-friendly-dark&icon_color=ffd95b)](https://github.com/dopevog/stockmarket-ai)
   
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dopevog&repo=aesthetic&theme=vision-friendly-dark&icon_color=ffd95b)](https://github.com/dopevog/aesthetic)
   
