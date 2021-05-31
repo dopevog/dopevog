@@ -1,4 +1,3 @@
-### **Sup 👋, it's great to see you!** 😀
 <h1 align="center" style="border-bottom: none">
     <b>
         <a href="https://github.com/dopevog">Hi! I'm Dopevog</a><br>
