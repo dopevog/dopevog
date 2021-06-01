@@ -2,7 +2,7 @@
     <b>
         <a href="https://github.com/dopevog">Hi! I'm Dopevog</a><br>
     </b>
-    <img align="center" width="100" height="100" src="https://github.com/dopevog/dopevog/blob/main/myicon.png"><br>
+    <img align="center" width="110" height="110" src="https://github.com/dopevog/dopevog/blob/main/myicon.png"><br>
     </b>
     ✨ A Developer, Investor & Constant Learner ✨ <br>
 
