@@ -2,7 +2,7 @@
     <b>
         <a href="https://github.com/dopevog">Hey! I'm Vedant.</a><br>
     </b>
-    [<img align="center" width="100" height="100" src="https://github.com/dopevog/dopevog/blob/main/myicon.png"><br>](https://github.com/dopevog/dopevog/blob/main/face.md)
+    <a href="http://google.com.au/"><img align="center" width="100" height="100" src="https://github.com/dopevog/dopevog/blob/main/myicon.png"><br></a>
     </b>
     ✨ A Developer, Investor & Constant Learner ✨ <br>
 
