@@ -8,6 +8,7 @@
 
 </h1>
 
+*There are some easter eggs in my profile! Try finding them!*
 
 Here are some quick things about me:
 
