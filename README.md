@@ -88,8 +88,9 @@ Check out.....
   ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=dopevog&hide=html&theme=vision-friendly-dark&icon_color=ffd95b)
   
   ![activity-graph](https://activity-graph.herokuapp.com/graph?username=dopevog&theme=react-dark&area=true&hide_border=true)
-  
-  
+
+  ![Metrics](https://metrics.lecoq.io/dopevog)
+
 </details>
 
 <details>
