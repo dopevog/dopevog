@@ -2,13 +2,13 @@
     <b>
         <a href="https://github.com/dopevog">Hey! I'm Vedant.</a><br>
     </b>
-    <a href="https://github.com/dopevog/dopevog/blob/main/face.md"><img align="center" width="100" height="100" src="https://github.com/dopevog/dopevog/blob/main/myicon.png"><br></a>
+    <a href="https://github.com/dopevog/dopevog/blob/main/files/face.md"><img align="center" width="100" height="100" src="https://github.com/dopevog/dopevog/blob/main/myicon.png"><br></a>
     </b>
     ✨ A Developer, Investor & Constant Learner ✨ <br>
 
 </h1>
 
-*There are some easter eggs in my profile! Try finding them or check them out [here](https://github.com/dopevog/dopevog/blob/main/eastereggs.md)!*
+*There are some easter eggs in my profile! Try finding them or check them out [here](https://github.com/dopevog/dopevog/blob/main/files/eastereggs.md)!*
 
 Here are some quick things about me:
 
