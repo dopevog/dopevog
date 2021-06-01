@@ -1,6 +1,6 @@
 <h1 align="center" style="border-bottom: none">
     <b>
-        <a href="https://github.com/dopevog">Hi 👋! I'm Dopevog</a><br>
+        <a href="https://github.com/dopevog">Hi! I'm Dopevog</a><br>
     </b>
     <img align="center" width="100" height="100" src="https://github.com/dopevog/dopevog/blob/main/myicon.png"><br>
     </b>
