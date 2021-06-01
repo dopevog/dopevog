@@ -8,7 +8,7 @@
 
 </h1>
 
-*There are some easter eggs in my profile! Try finding them!*
+*There are some easter eggs in my profile! Try finding them or check them out [here](https://github.com/dopevog/dopevog/blob/main/eastereggs.md)!*
 
 Here are some quick things about me:
 
