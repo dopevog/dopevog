@@ -5,5 +5,5 @@
     The List:
 </h3>
 <p align="center" style="border-bottom: none">
-    * Clicking on my logo at the top of the profile takes you [here](https://github.com/dopevog/dopevog/blob/main/files/face.md)
+    * Clicking on my logo at the top of the profile takes you ![here](https://github.com/dopevog/dopevog/blob/main/files/face.md)
 </p>
