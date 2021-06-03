@@ -10,3 +10,6 @@
 <p align="center" style="border-bottom: none">
    •  Clicking on the python or javascript logo takes you <a href="https://github.com/dopevog/dopevog/blob/main/files/favlang.md">here</a>
 </p>
+<p align="center" style="border-bottom: none">
+   •  Clicking on the emoji next to my pronouns takes you <a href="https://github.com/dopevog/dopevog/blob/main/files/cheecky.md">here</a>
+</p>
