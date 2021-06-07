@@ -137,7 +137,7 @@ Check out.....
   
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dopevog&repo=fakegooogle&theme=vision-friendly-dark&icon_color=ffd95b)](https://github.com/dopevog/fakegooogle)
     
-    [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yokiorg&repo=gradient&theme=vision-friendly-dark&icon_color=ffd95b)](https://github.com/yokiorg/gradient)
+   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yokiorg&repo=gradient&theme=vision-friendly-dark&icon_color=ffd95b)](https://github.com/yokiorg/gradient)
     
 </details>
 
