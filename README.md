@@ -105,7 +105,7 @@ Check out.....
   
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dopevog&repo=repolist&theme=vision-friendly-dark&icon_color=ffd95b)](https://github.com/dopevog/repolist)
   
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dopevog&repo=aesthetic&theme=vision-friendly-dark&icon_color=ffd95b)](https://github.com/dopevog/aesthetic)
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yokiorg&repo=gradient&theme=vision-friendly-dark&icon_color=ffd95b)](https://github.com/yokiorg/gradient)
   
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dopevog&repo=wowdown&theme=vision-friendly-dark&icon_color=ffd95b)](https://github.com/dopevog/wowdown)
   
@@ -136,6 +136,8 @@ Check out.....
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dopevog&repo=wowdown&theme=vision-friendly-dark&icon_color=ffd95b)](https://github.com/dopevog/wowdown)
   
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dopevog&repo=fakegooogle&theme=vision-friendly-dark&icon_color=ffd95b)](https://github.com/dopevog/fakegooogle)
+    
+    [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yokiorg&repo=gradient&theme=vision-friendly-dark&icon_color=ffd95b)](https://github.com/yokiorg/gradient)
     
 </details>
 
