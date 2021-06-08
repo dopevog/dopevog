@@ -25,12 +25,12 @@ Check out.....
 - 🌐 [My Personal Website](https://dopevog.github.io/me/): where I display my projects and share about myself!
 - 🤣 [My Second Personal Website](https://dopevog.github.io/moi/): just a little website to display ways to follow and contact me!
 
+Sponsor me:
 [![](https://c5.patreon.com/external/logo/become_a_patron_button.png)](https://www.patreon.com/dopevog)
 ```
 Current Patrons: 1
 Money Raised: $5.00
 ```
-
 ---
 
 <p align="center">
