@@ -4,7 +4,7 @@
     </b>
     <a href="https://github.com/dopevog/dopevog/blob/main/files/face.md"><img align="center" width="100" height="100" src="https://github.com/dopevog/dopevog/blob/main/files/myicon.png"><br></a>
     </b>
-    ✨ A Developer, Investor & Constant Learner ✨ <br>
+    ✨ A Developer & Constant Learner ✨ <br>
 
 </h1>
 
@@ -24,6 +24,8 @@ Check out.....
 
 - 🌐 [My Personal Website](https://dopevog.github.io/me/): where I display my projects and share about myself!
 - 🤣 [My Second Personal Website](https://dopevog.github.io/moi/): just a little website to display ways to follow and contact me!
+
+<a href="https://www.patreon.com/bePatron?u=56197600" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
 
 ---
 
