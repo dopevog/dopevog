@@ -25,7 +25,7 @@ Check out.....
 - 🌐 [My Personal Website](https://dopevog.github.io/me/): where I display my projects and share about myself!
 - 🤣 [My Second Personal Website](https://dopevog.github.io/moi/): just a little website to display ways to follow and contact me!
 
-<a href="https://www.patreon.com/bePatron?u=56197600" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
+[![](https://c5.patreon.com/external/logo/become_a_patron_button.png)](https://www.patreon.com/dopevog)
 
 ---
 
