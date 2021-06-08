@@ -26,6 +26,10 @@ Check out.....
 - 🤣 [My Second Personal Website](https://dopevog.github.io/moi/): just a little website to display ways to follow and contact me!
 
 [![](https://c5.patreon.com/external/logo/become_a_patron_button.png)](https://www.patreon.com/dopevog)
+```
+Current Patrons: 1
+Money Raised: $5.00
+```
 
 ---
 
