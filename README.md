@@ -81,7 +81,7 @@ Money Raised: $5.00
   <summary>🏆 Codejams I Have Participated In</summary>
   
 <!-- CODEJAM-LIST:START -->
-- Tech With Tim Codejame June/July 2021
+- [Tech With Tim Codejame June/July 2021](https://twtcodejam.net/)
 <!-- CODEJAM-LIST:END -->
 
 </details>
