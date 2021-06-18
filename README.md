@@ -21,8 +21,7 @@ Here are some quick things about me:
 
 Check out..... 
 
-- 🌐 [My Personal Website](https://dopevog.github.io/me/): where I display my projects and share about myself!
-- 🤣 [My Second Personal Website](https://dopevog.github.io/moi/): just a little website to display ways to follow and contact me!
+- 🌐 [My Personal Website](https://dopevog.github.io/moi/): just a little website to display ways to follow and contact me!
 
 Sponsor me:
 
@@ -136,8 +135,6 @@ Money Raised: $5.00
 
 <details>
   <summary>📜 JavaScript Projects</summary>
-  
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dopevog&repo=me&theme=vision-friendly-dark&icon_color=ffd95b)](https://github.com/dopevog/me)
  
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yokiorg&repo=codepix&theme=vision-friendly-dark&icon_color=ffd95b)](https://github.com/yokiorg/codepix)
     
