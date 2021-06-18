@@ -123,7 +123,7 @@ Money Raised: $5.00
 <details>
   <summary>🐍 Python Projects</summary>
   
-    [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cgraphite&repo=fileshare&theme=vision-friendly-dark&icon_color=ffd95b)](https://github.com/cgraphite/fileshare)
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cgraphite&repo=fileshare&theme=vision-friendly-dark&icon_color=ffd95b)](https://github.com/cgraphite/fileshare)
     
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cstox&repo=stox&theme=vision-friendly-dark&icon_color=ffd95b)](https://github.com/cstox/stox)
   
