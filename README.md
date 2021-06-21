@@ -14,7 +14,7 @@ Here are some quick things about me:
 
 - 🔭 I'm a software developer from Earth.
 - ⚗️ A lover of finance, current topics, space and real life project implementation.
-- 📫 Contact me via email [here](mailto:vedant.vnk@gmail.com).
+- 📫 Contact me via email [here](mailto:dopevog@gmail.com).
 - 👾 DM me on [discord](https://discord.com/users/711092289740472370).
 - ⚡ I love Python, JavaScript & Algorithmic Trading.
 - [😁](https://github.com/dopevog/dopevog/blob/main/files/cheecky.md) Pronouns: He/Him
