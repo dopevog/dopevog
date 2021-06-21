@@ -1,10 +1,10 @@
 <h1 align="center" style="border-bottom: none">
     <b>
-        <a href="https://github.com/dopevog">Hey! I'm Dopevog!</a><br>
+        <a href="https://github.com/dopevog">Hey!</a><br>
     </b>
     <a href="https://github.com/dopevog/dopevog/blob/main/files/face.md"><img align="center" width="100" height="100" src="https://github.com/dopevog/dopevog/blob/main/files/myicon.png"><br></a>
     </b>
-    ✨ A Developer & Constant Learner ✨ <br>
+    ✨ 'There's always one more thing to learn!' - Steve Jobs ✨ <br>
 
 </h1>
 
