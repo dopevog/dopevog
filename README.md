@@ -144,6 +144,8 @@ Money Raised: $5.00
     
    [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yokiorg&repo=gradient&theme=vision-friendly-dark&icon_color=ffd95b)](https://github.com/yokiorg/gradient)
     
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dopevog&repo=aviation-with-code&theme=vision-friendly-dark&icon_color=ffd95b)](https://github.com/dopevog/aviation-with-code)
+    
 </details>
 
 <details>
