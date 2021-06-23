@@ -104,7 +104,7 @@ Money Raised: $5.00
     
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cstox&repo=stox&theme=vision-friendly-dark&icon_color=ffd95b)](https://github.com/cstox/stox)
     
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pytrend&repo=repolist&theme=vision-friendly-dark&icon_color=ffd95b)](https://github.com/dopevog/pytrend)
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dopevog&repo=pytrend&theme=vision-friendly-dark&icon_color=ffd95b)](https://github.com/dopevog/pytrend)
     
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cgraphite&repo=fileshare&theme=vision-friendly-dark&icon_color=ffd95b)](https://github.com/cgraphite/fileshare)
   
@@ -123,7 +123,7 @@ Money Raised: $5.00
     
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cstox&repo=stox&theme=vision-friendly-dark&icon_color=ffd95b)](https://github.com/cstox/stox)
     
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pytrend&repo=repolist&theme=vision-friendly-dark&icon_color=ffd95b)](https://github.com/dopevog/pytrend)
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dopevog&repo=pytrend&theme=vision-friendly-dark&icon_color=ffd95b)](https://github.com/dopevog/pytrend)
     
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cgraphite&repo=fileshare&theme=vision-friendly-dark&icon_color=ffd95b)](https://github.com/cgraphite/fileshare)
   
