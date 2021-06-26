@@ -95,8 +95,6 @@ Money Raised: $5.00
   
   ![activity-graph](https://activity-graph.herokuapp.com/graph?username=dopevog&theme=react-dark&area=true&hide_border=true)
 
-  ![Metrics](https://metrics.lecoq.io/dopevog)
-
 </details>
 
 <details>
