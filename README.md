@@ -104,7 +104,7 @@ Money Raised: $5.00
     
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dopevog&repo=pytrend&theme=vision-friendly-dark&icon_color=ffd95b)](https://github.com/dopevog/pytrend)
     
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cgraphite&repo=fileshare&theme=vision-friendly-dark&icon_color=ffd95b)](https://github.com/cgraphite/fileshare)
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dopevog&repo=fileshare&theme=vision-friendly-dark&icon_color=ffd95b)](https://github.com/cgraphite/fileshare)
   
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cvython&repo=vython&theme=vision-friendly-dark&icon_color=ffd95b)](https://github.com/cvython/vython)
   
@@ -123,7 +123,7 @@ Money Raised: $5.00
     
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dopevog&repo=pytrend&theme=vision-friendly-dark&icon_color=ffd95b)](https://github.com/dopevog/pytrend)
     
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cgraphite&repo=fileshare&theme=vision-friendly-dark&icon_color=ffd95b)](https://github.com/cgraphite/fileshare)
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dopevog&repo=fileshare&theme=vision-friendly-dark&icon_color=ffd95b)](https://github.com/cgraphite/fileshare)
   
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cvython&repo=vython&theme=vision-friendly-dark&icon_color=ffd95b)](https://github.com/cvython/vython)
   
@@ -135,8 +135,7 @@ Money Raised: $5.00
 
 <details>
   <summary>📜 JavaScript Projects</summary>
- 
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yokiorg&repo=codepix&theme=vision-friendly-dark&icon_color=ffd95b)](https://github.com/yokiorg/codepix)
+
     
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dopevog&repo=wowdown&theme=vision-friendly-dark&icon_color=ffd95b)](https://github.com/dopevog/wowdown)
   
