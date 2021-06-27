@@ -110,7 +110,7 @@ Money Raised: $5.00
   
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dopevog&repo=repolist&theme=vision-friendly-dark&icon_color=ffd95b)](https://github.com/dopevog/repolist)
   
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yokiorg&repo=gradient&theme=vision-friendly-dark&icon_color=ffd95b)](https://github.com/yokiorg/gradient)
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dopevog&repo=gradient&theme=vision-friendly-dark&icon_color=ffd95b)](https://github.com/dopevog/gradient)
   
 </details>
 
@@ -142,7 +142,7 @@ Money Raised: $5.00
   
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dopevog&repo=fakegooogle&theme=vision-friendly-dark&icon_color=ffd95b)](https://github.com/dopevog/fakegooogle)
     
-   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yokiorg&repo=gradient&theme=vision-friendly-dark&icon_color=ffd95b)](https://github.com/yokiorg/gradient)
+   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dopevog&repo=gradient&theme=vision-friendly-dark&icon_color=ffd95b)](https://github.com/dopevog/gradient)
     
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dopevog&repo=aviation-with-code&theme=vision-friendly-dark&icon_color=ffd95b)](https://github.com/dopevog/aviation-with-code)
     
