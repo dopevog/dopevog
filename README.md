@@ -100,7 +100,7 @@ Money Raised: $5.00
 <details>
   <summary>🥇 Top Projects</summary>
     
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cstox&repo=stox&theme=vision-friendly-dark&icon_color=ffd95b)](https://github.com/cstox/stox)
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dopevog&repo=stox&theme=vision-friendly-dark&icon_color=ffd95b)](https://github.com/dopevog/stox)
     
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dopevog&repo=pywarping&theme=vision-friendly-dark&icon_color=ffd95b)](https://github.com/dopevog/pywarping)
     
@@ -119,7 +119,7 @@ Money Raised: $5.00
 <details>
   <summary>🐍 Python Projects</summary>
     
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=cstox&repo=stox&theme=vision-friendly-dark&icon_color=ffd95b)](https://github.com/cstox/stox)
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dopevog&repo=stox&theme=vision-friendly-dark&icon_color=ffd95b)](https://github.com/dopevog/stox)
     
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dopevog&repo=pywarping&theme=vision-friendly-dark&icon_color=ffd95b)](https://github.com/dopevog/pywarping)
     
